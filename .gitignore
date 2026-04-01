@@ -31,3 +31,4 @@ cypress
 mysqlToPostgres.js
 /docs
 extensions
+artifacts/
